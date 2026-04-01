@@ -9,7 +9,6 @@
 ![img_5.png](img_5.png)
 
 
-
 2> 点击send email 之后，我们会到send email page。要输入 email 地址，然后发送
 ![img_6.png](img_6.png)
 ![img_7.png](img_7.png)
